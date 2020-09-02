@@ -27,7 +27,6 @@ OnClick:
 3) Change the 'textContent' property of the greeting element to the user input.
     - Change greeting to user input
 
-==
 Process
 ==
 
